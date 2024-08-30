@@ -1,2 +1,1 @@
-# thecoder_dart_tuts
-tutorials for dart from the repo
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
